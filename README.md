@@ -14,7 +14,7 @@ Nothing interesting here, still building my GitHub profile though 🚧
     - Cloud Practitioner
     - Solutions Architect - Associate
     - Developers - Associate
-- Currently studying: CloudOps Engineer, DevSecOps Path, Agentic AI workflow 
+- Currently studying: CloudOps Engineer, DevSecOps Path, Agentic workflow 
 - *Outside of work, I do*: 🏋️🥾🏖️🏍️📚🎥📷
 
 ##### Let's connect on LinkedIn instead. 🤙
